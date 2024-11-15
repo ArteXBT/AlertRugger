@@ -90,6 +90,24 @@ Pour exécuter le bot 24h/24, vous pouvez l’héberger gratuitement sur Railway
 
 ---
 
+## 📢 Intégrer les Alertes FOMO dans votre Groupe
+
+1. **Commencer une discussion avec le bot [FOMO](https://t.me/fomo)**
+
+2. **Configurer un profil sur FOMO** :
+   - Tapez la commande `/menu` pour accéder au menu principal.
+   - Sélectionnez **Profiles**.
+   - Cliquez sur **New Profile** pour créer un nouveau profil d'alerte.
+   
+3. **Ajouter le bot à votre groupe** :
+   - Après avoir créé un profil, cliquez sur **Add bot to group**.
+   - Sélectionnez le groupe dans lequel se trouve également le bot IFTTT.
+   - Suivez les instructions de **@fomo** pour finaliser la configuration et l'intégrer correctement.
+
+Une fois cette étape terminée, les alertes de FOMO seront envoyées dans le groupe et pourront être utilisées en combinaison avec le bot IFTTT pour déclencher les actions appropriées.
+
+---
+
 ## 📚 Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou améliorer ce projet :
